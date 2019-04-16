@@ -1,4 +1,4 @@
-learning-threejs(thrid-r95)
+learning-threejs-thrid(r95)
 =======
 
 ## learning Three.js 案例在线演示

@@ -11,4 +11,4 @@ learning-threejs-thrid(r95)
 
 #### [learning-threejs-second(r69)在线演示](https://scqilin.github.io/learning-threejs/)
 
-#### [learning-threejs-thrid(r95)在线演示](https://scqilin.github.io/learning-threejs-third/)
+#### [learning-threejs-third(r95)在线演示](https://scqilin.github.io/learning-threejs-third/)
